@@ -1,0 +1,5 @@
+{
+  "name": "Airline operations simulator v2",
+  "description": "Based on a radar simulation app, this app is a airline management game, developed in 5 sprints",
+  "requestFramePermissions": []
+}
