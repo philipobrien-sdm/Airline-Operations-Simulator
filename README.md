@@ -14,6 +14,9 @@ This project is currently in **Sprint 1** of its development, based on the detai
 *   **Live Operations:** Your flights operate in real-time on the map, where they are subject to delays from airport congestion and must remain within radar coverage.
 *   **AI Competition:** The sky is filled with AI-controlled airlines that create a dynamic and competitive environment.
 
+<img width="1903" height="994" alt="Screenshot 2025-12-02 205444" src="https://github.com/user-attachments/assets/c219ed0c-4757-447c-a2fc-ecaaaa4837a6" />
+
+
 ## 🚀 Installation and Setup in Google AI Studio
 Follow these steps to download the code and run your own instance of the application in Google AI Studio.
 
